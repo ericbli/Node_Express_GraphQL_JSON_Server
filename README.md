@@ -15,8 +15,7 @@ using GraphQL and JSON-Server
    id, name,age
  }  }
 ---------------------------------------------------------
-{
- customer(id:"4"
+{ customer(id:"4"
   ) {
    id, name,age
  }  }
